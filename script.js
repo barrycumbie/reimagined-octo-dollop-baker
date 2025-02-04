@@ -6,6 +6,8 @@
 //drag and find position? 
 //click and get position? 
 
+//some change
+
 function myCoolFunction(x,y,z) {
   return x+y/z; 
 }
